@@ -1,7 +1,6 @@
 
 # 💫 About Me:
- I am Muhammad Awais a student of Computer Science , Experience in C++ and Python.I have Worked on small academic and personal projects and Learning Object-Oriented Programming and core CS concepts
- I am also Interested in software development and problem solving and open to collaboration on beginner-friendly projects. I'm Currently exploring web development and improving programming skills.
+ I am Muhammad Awais, a student of Computer Science who is experienced in C++ and Python.I have worked on small academic and personal projects. I'm Learning Object-Oriented Programming and core CS concepts and also Interested in software development and problem solving. I always open to collaboration on beginner-friendly projects. I'm Currently exploring web development and improving programming skills.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/awais-rana-042304410) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadaws0125@gmail.com) 
 
